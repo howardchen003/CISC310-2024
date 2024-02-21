@@ -21,6 +21,7 @@ while(loopCount<=4):
 
 #consumer thread: reads sharedVar 5 times and sums the total. write that data to a file
     #random wait between 1-3 sec
+    time.sleep(random.choice([1,2,3]))
     #sum of the total read 5 times in sharedVar
     #write that data to a file
 
