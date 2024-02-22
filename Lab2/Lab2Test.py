@@ -32,8 +32,8 @@ def main():
     producer_thread.join()
     consumer_thread.join()
 
-    with open('sum2.txt', 'w') as file:
+    with open('sum3.txt', 'w') as file:
         file.write(str(sum_values))
 
-if __name__ == '__main__':
-    main()
+# if __name__ == '__main__':
+#     main()

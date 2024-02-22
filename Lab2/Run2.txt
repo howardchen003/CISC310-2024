@@ -1,0 +1,3 @@
+Howard Chen 
+Computer Operating Systems Assignment #2 
+The sum is: 10
