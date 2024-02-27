@@ -1,7 +1,11 @@
 #Howard Chen
 #2/28/24
 #Asg3
-#   
+#This program will generate a random password and then brute force it to find the password. 
+# The first function will generate a password with only uppercase letters and then brute force it. 
+# The second function will generate a password with upper and lower case letters as well as special characters and digits and then brute force it. 
+# The program will then output the password and the number of tries it took to find the password. 
+# The program will also output the time it took to find the password. The output will be written to a text file.
 import random
 import string
 import itertools
@@ -74,7 +78,7 @@ def numAndChars():      #this function will generate a pwd with upper and lowerc
 
 def main():
     uppercaseOnly()
-    #numAndChars()
+    numAndChars()
 
 
 if __name__ == '__main__':

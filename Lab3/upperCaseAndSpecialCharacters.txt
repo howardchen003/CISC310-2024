@@ -1,0 +1,5 @@
+Howard Chen 	Computer Operating Systems Assignment #3 	2/28/24
+Uppercase, lowercase, and special characters
+The password generated was: AC2y
+Guesses:12514189
+Took:4.579038381576538 seconds
