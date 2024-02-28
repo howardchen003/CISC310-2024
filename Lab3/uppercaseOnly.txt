@@ -1,5 +1,5 @@
 Howard Chen 	Computer Operating Systems Assignment #3 	2/28/24
 Four random uppercase letters 
-The password generated was: SOQN
-Guesses:326262
-Took:0.12254643440246582 seconds
+The password generated was: NTVG
+Guesses:241885
+Took:0.02494049072265625 seconds

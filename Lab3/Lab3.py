@@ -55,9 +55,9 @@ def numAndChars():      #this function will generate a pwd with upper and lowerc
     #iterate and try to match the password
     complexCombo = itertools.product(string.ascii_letters + ':;><=?@{|}[]\\^_`' + string.digits, repeat=4)
 
-    for complexCombo in complexCombo:
-        guess = ''.join(complexCombo)
-        if guess == password:
+    for complexCombo in complexCombo:    #this is just a inf loop
+        guess = ''.join(complexCombo)   #this makes the brute force generated chars into str
+        if guess == password:    #if the password is correct, exit the loop
             print("Password found:", guess, "\nNum Tries:", tries)
             break
         else:
