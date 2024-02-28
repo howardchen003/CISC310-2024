@@ -1,5 +1,0 @@
-Howard Chen 	Computer Operating Systems Assignment #3 	2/28/24
-Uppercase, lowercase, and special characters
-The password generated was: h69=
-Guesses:3778143
-Took:1.1240243911743164 seconds
