@@ -1,0 +1,5 @@
+Howard Chen 	Computer Operating Systems Assignment #3 	2/28/24
+Four random uppercase letters 
+The password generated was: QWKV
+Guesses:296370
+Took:0.09318947792053223 seconds
