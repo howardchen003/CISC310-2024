@@ -3,3 +3,9 @@ Uppercase, lowercase, and special characters
 The password generated was: 5\4T
 Guesses:35037334
 Took:3.620403528213501 seconds
+
+Four random uppercase letters 
+The password generated was: NTVG
+Guesses:241885
+Took:0.02494049072265625 seconds
+

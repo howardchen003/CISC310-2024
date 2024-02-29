@@ -3,3 +3,13 @@ Four random uppercase letters
 The password generated was: NTVG
 Guesses:241885
 Took:0.02494049072265625 seconds
+
+Uppercase, lowercase, and special characters
+The password generated was: 5\4T
+Guesses:35037334
+Took:3.620403528213501 seconds
+
+It took 181 times as long to crack the password with uppercase, lowercase, digits, and special characters.
+
+This assignment tells me that it is better to have different characters in a password than just all one case letters as it makes the password cracking process a lot harder. 
+This assignment also taught me that unlimited attempts should not be given to crack a password since even if you had the most complex password it could be cracked given enough attempts and time.
