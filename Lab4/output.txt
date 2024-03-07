@@ -16,3 +16,5 @@ Page number = 1
 Offset = 1882
 The time taken was = 800 ns
 
+Observations:
+Through this assignment, I observed that it is faster to do the math on addresses closer to the top/bottom of the stack. 
