@@ -1,12 +1,18 @@
+Howard Chen 
+Computer Operating Systems Assignment #4 
+3/6/24
 The address 19986 is in:
 Page number = 4
 Offset = 3602
+The time taken was = 1300 ns
 
 The address 347892 is in:
 Page number = 84
 Offset = 3828
+The time taken was = 2100 ns
 
 The address 5978 is in:
 Page number = 1
 Offset = 1882
+The time taken was = 800 ns
 
